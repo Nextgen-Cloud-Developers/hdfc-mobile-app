@@ -1,1 +1,2 @@
 we are learning devops
+today we are learning git and github which is imp for devops
