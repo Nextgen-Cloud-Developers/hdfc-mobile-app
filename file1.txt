@@ -8,3 +8,4 @@ this line added by vivek
 this line added by sai
 i am doing much better
 checking for git fetch command
+avoiding conflicts 
