@@ -10,3 +10,4 @@ i am doing much better
 checking for git fetch command
 checking for pull command
 added by me
+we are git and github
